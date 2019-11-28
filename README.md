@@ -1,4 +1,5 @@
-# Seminar: _Business Analytics_ - Topic: _Adversarial Attacks_: 
+# Seminar: _Business Analytics_ 
+# - Topic: _Adversarial Attacks_: 
 In this repository the corresponding __code__ and the used __example pictures__ for the seminar paper _"Adversarial Attacks"_ are located.
 
 ###  Disclaimer: 
