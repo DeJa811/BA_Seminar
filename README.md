@@ -11,4 +11,4 @@ For the implementation the __Fast Gradient Sign Method (FGSM)__ by [Goodfellow e
 
 For this purpose, several images were altered using a range of epsilon values (0.01, 0.05, 0.1, 0.15, 0.2). The epsilon value controls the degree with which the image is to be changed. A high epsilon value increases the success rate of the Adversarial Attack, but also creates visible visual changes to the original input image for the human eye, which makes the perturbation more obvious.
 
-Subsequently, the clas percentage as output of the classification was compared with the corresponding originals. Following the success rate was determined and compared between all used sample images.
+Subsequently, the class percentage as output of the classification was compared with the corresponding originals. Following the success rate was determined and compared between all used sample images.
