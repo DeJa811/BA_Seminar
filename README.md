@@ -1,7 +1,7 @@
 # BA_Seminar
 In this repository the corresponding __code__ and the used __example pictures__ for the seminar paper _"Adversarial Attacks"_ are located.
 
-##__Disclaimer:__ 
+##  __Disclaimer:__ 
 The folder _\data_ includes all used example images used for Adversarial Example generation.
 All images were taken by myself, so no copyrights were infringed for these pictures.
 
