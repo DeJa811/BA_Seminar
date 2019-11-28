@@ -2,7 +2,7 @@
 In this repository the corresponding __code__ and the used __example pictures__ for the seminar paper _"Adversarial Attacks"_ are located.
 
 ###  Disclaimer: 
-The folder _\images_ includes all used example images for the generation of Adversarial Examples.
+The folder _\images_ includes all used images for the generation of Adversarial Examples.
 All images were taken by myself, so no copyrights were infringed for these pictures.
 
 ### Model:
